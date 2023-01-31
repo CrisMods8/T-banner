@@ -20,7 +20,7 @@ Adios() {
 echo
 sleep 0.3
 printf "$v [$b1+$v]${b1} Finalizado\n"
-printf "$v [$b1+$v]${b1} Anonymous Zpt$b\n "
+printf "$v [$b1+$v]${b1}  Cris Ofc$b\n "
 echo
 sleep 0.3
 exit
@@ -36,7 +36,7 @@ echo -e "\n$r[-]$b1 T-banner4:$r No Hay Conexion A Internet.\n$b"
 exit
 esac
 clear
-echo -e "$r\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ $A[$b+$A]${b}$b1 Creador:    $a Anonymous Zpt$r\n████▌▄▌▄▐▐▌█████ $A[$b+$A]${b}$b1 Herramienta:$a T-banner4$r\n████▌▄▌▄▐▐▌▀████ $A[$b+$A]${b}$b1 Github:     $a https://github.com/Anonymous-Zpt$r\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ $A[$b+$A]${b}$b1 Youtube:    $a http://www.youtube.com/c/AnonymousZpt$r\n$b"
+echo -e "$r\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ $A[$b+$A]${b}$b1 Creador:    $a Cris Ofc Mods$r\n████▌▄▌▄▐▐▌█████ $A[$b+$A]${b}$b1 Herramienta:$a T-banner4$r\n████▌▄▌▄▐▐▌▀████ $A[$b+$A]${b}$b1 Github:     $a https://github.com/CrisOfcHack$r\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ $A[$b+$A]${b}$b1 Youtube:    $a http://www.youtube.com/@Cris_Mods$r\n$b"
 echo
 sleep 0.5
 printf "${v}Instalando Dependencias..!$b\n"
@@ -48,10 +48,10 @@ b1() {
 clear
 sleep 0.0
 echo -e '\033[1;32m\n  _______   __                                             ___ ___\n |       | |  |--. .---.-. .-----. .-----. .-----. .----. |   Y   |\n |.|   | | |  _  | |  _  | |     | |     | |  -__| |   _| |   |   |\n |_|.  |_| |_____| |___._| |__|__| |__|__| |_____| |__|   |____   |\n   |:  |                                                      |:  |\n   |::.|                                                      |::.|\n   |___|                                                      |___|\n\033[0m'
-printf " $A[$b1+$A]${b1} Creador:$a     Anonymous Zpt\n"
+printf " $A[$b1+$A]${b1} Creador:$a     Cris Ofc\n"
 printf " $A[$b1+$A]${b1} Herramienta:$a T-banner4\n"
-printf " $A[$b1+$A]${b1} GitHub:$a      https://github.com/Anonymous-Zpt\n"
-printf " $A[$b1+$A]${b1} YouTube:$a     http://www.youtube.com/c/AnonymousZpt$b\n\n"
+printf " $A[$b1+$A]${b1} GitHub:$a      https://github.com/CrisOfcHack\n"
+printf " $A[$b1+$A]${b1} YouTube:$a     http://www.youtube.com/@Cris_Mods$b\n\n"
 }
 b2() {
 clear
@@ -63,10 +63,10 @@ ______________.                                               _____
   |    |    | \_\ \ / __ \_|   |  \|   |  \\   ___/  |  | \//    ^   /
   |____|    |___  /(____  /|___|  /|___|  / \___  > |__|   \____   |
                 \/      \/      \/      \/      \/              |__|\n\033[0m"
-printf "$A[$b1+$A]${b1} Creador:$a     Anonymous Zpt\n"
+printf "$A[$b1+$A]${b1} Creador:$a     Cris Ofc\n"
 printf "$A[$b1+$A]${b1} Herramienta:$a T-banner4\n"
-printf "$A[$b1+$A]${b1} GitHub:$a      https://github.com/Anonymous-Zpt\n"
-printf "$A[$b1+$A]${b1} YouTube:$a     http://www.youtube.com/c/AnonymousZpt$b\n\n"
+printf "$A[$b1+$A]${b1} GitHub:$a      https://github.com/CrisOfcHack\n"
+printf "$A[$b1+$A]${b1} YouTube:$a     http://www.youtube.com/@Cris_Mods$b\n\n"
 }
 banner() {
 b1
